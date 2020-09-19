@@ -29,3 +29,8 @@ Cualquier tipo de insulto o descalificación hacia otro miembro de la comunidad 
 ## 2. Ofertas de Trabajo:
 
 Cualquier oferta de trabajo que sea difundida por los grupos de la comunidad del GDG Cloud Santiago, debe incluir el rango de renta aproximado a ofrecer por el empleador y transparentar el cliente final en caso de ser una empresa reclutadora. De caso contrario, la oferta será eliminada. En caso de volver a incurrir en esta falta de forma consecutiva, significará la expulsión inmediata del grupo y participación en próximos eventos del GDG Cloud Santiago. 
+
+## 3. Plagio en Creación de Contenidos:
+
+Todo uso parcial de contenido de terceros utilizado para generar contenido de parte de los miembros de la comunidad hacia el GDG Cloud Santiago, por cualquier medio que la comunidad tenga disponible, debe poseer las respectivas referencias de crédito (Nombre y link directo al contenido) a los autores intelectuales del contenido y poseer el derecho de utilización mediante licencia o autorización expresa del generaror de este contenido.
+Cualquier detección de plagio en la generación de contenido por parte de un miembro hacia la comunidad del GDG Cloud Santiago significará una investigación del comíté organizador, la cual podría terminar en una expulsión de por vida del grupo y participación en próximos eventos del GDG Cloud Santiago.
