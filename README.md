@@ -34,3 +34,7 @@ Cualquier oferta de trabajo que sea difundida por los grupos de la comunidad del
 
 Todo uso parcial de contenido de terceros utilizado para generar contenido de parte de los miembros de la comunidad hacia el GDG Cloud Santiago, por cualquier medio que la comunidad tenga disponible, debe poseer las respectivas referencias de crédito (Nombre y link directo al contenido) a los autores intelectuales del contenido y poseer el derecho de utilización mediante licencia o autorización expresa del generaror de este contenido.
 Cualquier detección de plagio en la generación de contenido por parte de un miembro hacia la comunidad del GDG Cloud Santiago significará una investigación del comíté organizador, la cual podría terminar en una expulsión de por vida del grupo y participación en próximos eventos del GDG Cloud Santiago.
+
+## 4. Tolerancia 0 con el SPAM:
+
+A nadie le gusta recibir mensajes inesperados y menos de un desconocido. Si detectamos que utilizando los contactos existentes del grupo para envíar publicidad, contenido no deseado o inapropiado, spam, o cualquier tipo de contenido sin la autorización previa del destinatario y este te reporta en el grupo "Reporte de Spam" (enviando una captura de pantalla del mensaje recibido donde se pueda ver el contacto que envió el mensaje de forma privada) https://chat.whatsapp.com/D97lqVWyBBVBSlitjXEsfK significa la expulsión inmediata y definitiva de la comunidad sin derecho a replica.
