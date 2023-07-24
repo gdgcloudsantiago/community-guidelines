@@ -38,3 +38,10 @@ Cualquier detección de plagio en la generación de contenido por parte de un mi
 ## 4. Tolerancia 0 con el SPAM:
 
 A nadie le gusta recibir mensajes inesperados y menos de un desconocido. Si detectamos que utilizando los contactos existentes del grupo para envíar publicidad, contenido no deseado o inapropiado, spam, o cualquier tipo de contenido sin la autorización previa del destinatario y este te reporta en el grupo "Reporte de Spam" (enviando una captura de pantalla del mensaje recibido donde se pueda ver el contacto que envió el mensaje de forma privada) https://chat.whatsapp.com/D97lqVWyBBVBSlitjXEsfK significa la expulsión inmediata y definitiva de la comunidad sin derecho a replica.
+
+## 5. Compartir Eventos/Webinars que no sean de la comunidad:
+
+Nos encanta que quieras compartir eventos o webinars de otras comunidades en nuestra comunidad con el fin de disponer de una mayor oferta y recursos para nuestros miembros.
+Eso si necesitamos pedirte lo siguiente:
+Nos ha tomado mucho esfuerzo poder construir la comunidad más grande de LATAM con más de 5000 participantes, por lo que si bien estamos dispuestos y queremos que tu también puedas sacar provecho de este gran grupo, queremos que puedas nombrar de forma explícita a nuestra comunidad (GDG Cloud Santiago de Chile) y compartas un link de invitación a nuestra comunidad en tu event o webinar. No es necesario seguir ningún formato específico pero tenlo en consideración al momento de compartir tus eventos en nuestra comunidad.
+Si necesitas de nuestra ayuda para difundir tu evento en todas nuestras redes, puedes contactar a sebastian@gdgcloudsantiago.dev
