@@ -35,7 +35,7 @@ Nombre de la empresa: obligatorio
 Cargo a postular: obligatorio
 Lugar: opcional
 Cultura laboral: opcional
-Salario: obligatorio
+Salario: obligatorio (EN USD (obligatorio) + moneda local (opcional))
 Beneficios: opcional
 Contacto: obligatorio
 URL: url de la oferta
