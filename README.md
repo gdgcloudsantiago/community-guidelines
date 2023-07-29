@@ -33,12 +33,12 @@ Cualquier oferta de trabajo que sea difundida por los grupos de la comunidad del
 Template Oferta Laboral:
 Nombre de la empresa: obligatorio
 Cargo a postular: obligatorio
-Lugar: opcional
+Lugar: obligatorio
 Cultura laboral: opcional
-Salario: obligatorio (EN USD (obligatorio) + moneda local (opcional))
+Salario: obligatorio (Si es Remoto USD , si es Híbrido o Presencial en Moneda Local)
+Modalidad: obligatorio (Remoto / Híbrido / Presencial)
 Beneficios: opcional
-Contacto: obligatorio
-URL: url de la oferta
+Contacto o URL de la oferta: obligatorio
 
 ## 3. Plagio en Creación de Contenidos:
 
