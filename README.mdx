@@ -28,9 +28,11 @@ Cualquier tipo de insulto o descalificación hacia otro miembro de la comunidad 
 
 ## 2. Ofertas de Trabajo:
 
-Cualquier oferta de trabajo que sea difundida por los grupos de la comunidad del GDG Cloud Santiago, debe incluir el rango de renta aproximado a ofrecer por el empleador y transparentar el cliente final en caso de ser una empresa reclutadora. De caso contrario, la oferta será eliminada. En caso de volver a incurrir en esta falta de forma consecutiva, significará la expulsión inmediata del grupo y participación en próximos eventos del GDG Cloud Santiago. 
+Cualquier oferta de trabajo  o solicitud de asesoría que sea difundida por los grupos de la comunidad del GDG Cloud Santiago, debe incluir el rango de renta aproximado a ofrecer por el empleador y transparentar el cliente final en caso de ser una empresa reclutadora. De caso contrario, la oferta será eliminada. En caso de volver a incurrir en esta falta de forma consecutiva, significará la expulsión inmediata del grupo y participación en próximos eventos del GDG Cloud Santiago. 
 
-Template Oferta Laboral:
+### 2.1 Template de Oferta laboral:
+
+```markdown 
 Nombre de la empresa: obligatorio
 Cargo a postular: obligatorio
 Lugar: obligatorio
@@ -39,6 +41,18 @@ Salario: obligatorio (Si es Remoto USD , si es Híbrido o Presencial en Moneda L
 Modalidad: obligatorio (Remoto / Híbrido / Presencial)
 Beneficios: opcional
 Contacto o URL de la oferta: obligatorio
+```
+
+### 2.2 Template Solicitud de Asesoría:
+
+```markdown
+Nombre de la empresa o persona: obligatorio
+Área de interés: obligatorio (por ejemplo Cloud Engineer, Developer, Frontend etc)
+Descripción del Problema: Detalles del problema o motivo de la asesoría.
+Correo Eletrónico: obligatorio
+Costo: obligatorio (recordar que las asesorías por hora varian, deben aportar una base 20$/hour)
+Otros detalles: Obligatorio (colocar la fecha y horas preferidas disponibles, otros detalles que quieran compartir.)
+```
 
 ## 3. Plagio en Creación de Contenidos:
 
