@@ -26,7 +26,7 @@ Las reglas del GDG Cloud Santiago son deberes que cada miembro debe seguir con e
 Dependiendo de si nos sigues en Discord, Telegram o Whatsapp, existen diferentes canales para que puedas conversar sobre diferentes tópicos y temáticas.
 Todas las temáticas conversadas en esta comunidad tienen de alguna u otra manera relación con Google Cloud y Tecnologías Open Source.
 Sin ser esta una lista exshaustiva no se permite contenido de pornografía, sexismo, drogas, política, religión, estafas, esquemas de enriquecimiento rápido o cualquier otro tópico o temática que no esté alineada con el grupo o comunidad.
-Los organizadores y moderadores podrán deicidir bajo su propio juicio si un contenido es adecuado o no para el grupo o comunidad y dependiendo de la falta, en algunos casos se eliminará el contenido y se indicará al miembro que ha cometido una falta. En otros casos la expulsión será de forma inmedianta y definitiva.
+Los organizadores y moderadores podrán decidir bajo su propio juicio si un contenido es adecuado o no para el grupo o comunidad y dependiendo de la falta, en algunos casos se eliminará el contenido y se indicará al miembro que ha cometido una falta. En otros casos la expulsión será de forma inmediata y definitiva.
 
 ## 1. Trato hacia otros miembros de la comunidad:
 
