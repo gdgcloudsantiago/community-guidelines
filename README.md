@@ -52,12 +52,48 @@ Contacto o URL de la oferta: obligatorio
 ### 2.2 Template Solicitud de Asesoría:
 
 ```markdown
-Nombre de la empresa o persona: obligatorio
-Área de interés: obligatorio (por ejemplo Cloud Engineer, Developer, Frontend etc)
-Descripción del Problema: Detalles del problema o motivo de la asesoría.
-Correo Eletrónico: obligatorio
-Costo: obligatorio (recordar que las asesorías por hora varian, deben aportar una base 20$/hour)
-Otros detalles: Obligatorio (colocar la fecha y horas preferidas disponibles, otros detalles que quieran compartir.)
+•⁠  ⁠*Tipo de Colaborador Buscado:* 😀
+  - [ ] Empleado
+  - [ ] Socio Comercial
+  - [ ] Socio Inversionista
+  - [ ] Socio Fundador
+  - [ ] Alianza Estratégica
+  - [ ] Becario
+  - [ ] Colaborador
+
+•⁠  ⁠*Tipo de Contrato:* 📅
+  - [ ] Tiempo Parcial - Definido
+  - [ ] Indefinido
+  - [ ] Por Obra o Servicio
+  - [ ] Reemplazo
+  - [ ] Formación o Aprendizaje
+  - [ ] Tiempo Parcial con Vinculación Formativa
+  - [ ] Participación - Si es el caso de socio
+
+•⁠  ⁠*Nombre de la Empresa:* 🏢
+
+•⁠  ⁠*Cargo o Rol a Postular:* 👤
+
+•⁠  ⁠*Funciones del Cargo o Rol:* 📋
+
+•⁠  ⁠*Grado de Expertise Necesario:* 🌱
+  - [ ] Junior
+  - [ ] Avanzado
+  - [ ] Experto - Indicar años de experiencia para cada segmento
+
+•⁠  ⁠*Lugar de la Empresa:* 🌍
+
+•⁠  ⁠*Modalidad de Trabajo:* 🏠
+  - [ ] Remoto
+  - [ ] Presencial
+  - [ ] Híbrido
+  - [ ] Worldwide - Desde cualquier parte del mundo
+
+•⁠  ⁠*Salario:* 💰 (Solo banda salarial si es aplicable al empleado)
+
+•⁠  ⁠*Beneficios:* 🎁
+
+•⁠  ⁠*Contacto:* ✉️ (Información de contacto obligatoria)
 ```
 
 ## 3. Plagio en Creación de Contenidos:
