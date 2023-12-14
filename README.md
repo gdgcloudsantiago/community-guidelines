@@ -73,7 +73,9 @@ A nadie le gusta recibir mensajes inesperados y menos de un desconocido. Si dete
 
 Nos encanta que quieras compartir eventos o webinars de otras comunidades en nuestra comunidad con el fin de disponer de una mayor oferta y recursos para nuestros miembros.
 Eso si necesitamos pedirte lo siguiente:
-Nos ha tomado mucho esfuerzo poder construir la comunidad más grande de LATAM con más de 5000 participantes, por lo que si bien estamos dispuestos y queremos que tu también puedas sacar provecho de este gran grupo, queremos que puedas nombrar de forma explícita a nuestra comunidad (GDG Cloud Santiago de Chile) y compartas un link de invitación a nuestra comunidad en tu event o webinar. No es necesario seguir ningún formato específico pero tenlo en consideración al momento de compartir tus eventos en nuestra comunidad.
-Si necesitas de nuestra ayuda para difundir tu evento en todas nuestras redes, puedes contactar a sebastian@gdgcloudsantiago.dev
-Nombre Comunidad a compartir: GDG Cloud Santiago de Chile
-Link de invitación a compartir (Grupo de Whatsapp): https://chat.whatsapp.com/H9d2J4BWiwD5LrL4GZosyQ
+Nos ha tomado mucho esfuerzo poder construir la comunidad más grande de LATAM con más de 5000 participantes, por lo que si bien estamos dispuestos y queremos que tu también puedas sacar provecho de este gran grupo, queremos que puedas nombrar de forma explícita a nuestra comunidad (GDG Cloud Santiago de Chile) y compartas un link de invitación a nuestra comunidad en tu evento o webinar. Favor tenlo en consideración al momento de compartir tus eventos en nuestra comunidad.
+
+GDG Cloud Santiago de Chile.
+Link de invitación a compartir (LinkedIn): https://www.linkedin.com/company/gdgcloudsantiago/
+
+Si necesitas de nuestra ayuda para difundir tu evento en todas nuestras redes, puedes contactar a cristobal@gdgcloudsantiago.dev
