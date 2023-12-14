@@ -39,19 +39,6 @@ Cualquier oferta de trabajo  o solicitud de asesoría que sea difundida por los 
 ### 2.1 Template de Oferta laboral:
 
 ```markdown 
-Nombre de la empresa: obligatorio
-Cargo a postular: obligatorio
-Lugar: obligatorio
-Cultura laboral: opcional
-Salario: obligatorio (Si es Remoto USD , si es Híbrido o Presencial en Moneda Local)
-Modalidad: obligatorio (Remoto / Híbrido / Presencial)
-Beneficios: opcional
-Contacto o URL de la oferta: obligatorio
-```
-
-### 2.2 Template Solicitud de Asesoría:
-
-```markdown
 •⁠  ⁠*Tipo de Colaborador Buscado:* 😀
   - [ ] Empleado
   - [ ] Socio Comercial
@@ -94,6 +81,17 @@ Contacto o URL de la oferta: obligatorio
 •⁠  ⁠*Beneficios:* 🎁
 
 •⁠  ⁠*Contacto:* ✉️ (Información de contacto obligatoria)
+```
+
+### 2.2 Template Solicitud de Asesoría:
+
+```markdown
+Nombre de la empresa o persona: obligatorio
+Área de interés: obligatorio (por ejemplo Cloud Engineer, Developer, Frontend etc)
+Descripción del Problema: Detalles del problema o motivo de la asesoría.
+Correo Eletrónico: obligatorio
+Costo: obligatorio (recordar que las asesorías por hora varian, deben aportar una base 20$/hour)
+Otros detalles: Obligatorio (colocar la fecha y horas preferidas disponibles, otros detalles que quieran compartir.)
 ```
 
 ## 3. Plagio en Creación de Contenidos:
